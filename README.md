@@ -1,4 +1,4 @@
-# CalcDaysWeek
+# CalcWorkDays
  Script to calc only WorkDays
 
  You can call the function:
