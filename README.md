@@ -3,9 +3,9 @@
 
  You can call the function:
 
- WeekDays(loop = null, today = null) 
+ WeekDays(loop, today = null) 
  
- Loop = Work days to print, need to put some value, null will work, but will print only today if not saturday or sunday.
+ Loop = Work days to print, need to put some value.
  
  Today = Start on this day, if leave null will get today using js.
  
