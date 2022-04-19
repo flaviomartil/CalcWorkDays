@@ -1,5 +1,5 @@
 
-function WeekDays(loop, today = null) {
+function CalcWorkDays(loop, today = null) {
     today = new Date();
     if (today) {
         today = new Date(today)
@@ -35,3 +35,4 @@ function WeekDays(loop, today = null) {
             }
         }
 }
+CalcWorkDays(5);
